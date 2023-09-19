@@ -23,11 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as a Lead Software Engineer, contributing to frontend and backend applications with a focus on machine learning.
+- 🗺 Exploring cutting edge machine learning, in particular natural language processing and speech tech.
 
-- 🗺 Exploring cutting edge machine learning, in particular natural language processing tech.
-
-- 📖 I am currently enrolled in a masters at University of Wolverhampton studying Computational Linguistics.
+- 📖 I am currently a PhD student at the University of Sheffield studying Speech and Language Technology.
 
 - :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-anthonyyhughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyyhughes/)
 
