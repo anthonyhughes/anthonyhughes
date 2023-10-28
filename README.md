@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-- 🗺 Exploring cutting edge machine learning, in particular natural language processing and speech tech.
+- 🗺 Exploring cutting edge machine learning, specialising in natural language processing and speech tech.
 
 - 📖 I am currently a PhD student at the University of Sheffield studying Speech and Language Technology.
 
