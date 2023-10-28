@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 - 📖 I am currently a PhD student at the University of Sheffield studying Speech and Language Technology.
 
-- :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-anthonyyhughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyyhughes/)
+- :mailbox: Reach me at:
+  - [![Linkedin Badge](https://img.shields.io/badge/-anthonyyhughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyyhughes/)
+  - [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anthonyyhughes) 
 
 ---
 
