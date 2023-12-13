@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   </h1>
  </div>
 
-### :man_technologist: About Me :
+### About Me :
 
 - 🗺 Exploring cutting edge machine learning, specialising in natural language processing and speech tech.
 
