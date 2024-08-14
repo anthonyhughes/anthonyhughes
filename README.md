@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me :
 
-- 🗺 Exploring cutting edge machine learning, specialising in natural language processing and speech tech.
+- 🗺 Exploring cutting edge machine learning, specialising in privacy and safety in multimodal AI.
 
-- 📖 I am currently a PhD student at the University of Sheffield studying Speech and Language Technology.
+- 📖 I am currently a PhD student at the University of Sheffield w\ @sheffieldnlp.
 
 - :mailbox: Reach me at:
   - [![Linkedin Badge](https://img.shields.io/badge/-anthonyyhughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyyhughes/)
